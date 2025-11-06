@@ -1,0 +1,6 @@
+flask
+Werkzeug
+flask-cors
+python-dotenv
+certifi
+pymysql
