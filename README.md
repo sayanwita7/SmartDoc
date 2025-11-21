@@ -1,5 +1,8 @@
 Copy the project: git clone https://github.com/sayanwita7/SmartDoc
 
+Setting up the database:
+Copy the entire query written in backend\databaseCreation.txt
+
 Setting up backend: 
 
 1. First create the virtual environment:python -m venv venv
